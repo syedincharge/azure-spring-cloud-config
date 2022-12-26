@@ -1,1 +1,1 @@
-#Azure Spring Cloud Config
+# Azure Spring Cloud Config
